@@ -9,11 +9,21 @@ Srisailam is the abode of **Lord Mallikarjuna** and **Maa Bhramaraambamika**. It
 
 --- 
 ### Activities at Vacation
-* Taking Darshan of Lord Shiva and Maa Parvathi.
-* Praying at Sakshi Ganapathi temple.
-* visiting zoo.
-* Trekking hill area.
-* Bathing in waterfalls.
+1. Taking Darshan of Lord Shiva and Maa Parvathi.
+2. Praying at Sakshi Ganapathi temple.
+3. visiting zoo.
+4. Trekking hill area.
+5. Bathing in waterfalls.
+
+### Food
+
+* Rice
+* Dal
+* Curry
+* Curd
+* Papads
+
+
 
 
 
