@@ -39,6 +39,17 @@ Sports is a must for everyone. It not only helps in diverting from daily chores,
 | Volley Ball       | Helps Body Building       | 5 |
 | Foot Ball         | Helps Body Building       | 5 |
 
+---
+### Quotes
+
+*Alan Turing* : 
+> Machines take me by surprise with great frequency.
+
+*John Forbes Nash Jr* : 
+> I can observe the game theory is applied very much in economics.
+
+*Yann LeCunn* :
+> Our intelligence is what makes us human, and AI is an extension of that quality.
 
 
 
