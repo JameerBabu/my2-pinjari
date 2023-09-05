@@ -23,6 +23,11 @@ Srisailam is the abode of **Lord Mallikarjuna** and **Maa Bhramaraambamika**. It
 * Curd
 * Papads
 
+---
+![My Personal Stats](https://github.com/JameerBabu/my2-pinjari/blob/main/MyStats.md)
+
+
+
 
 
 
