@@ -26,7 +26,18 @@ Srisailam is the abode of **Lord Mallikarjuna** and **Maa Bhramaraambamika**. It
 ---
 ![My Personal Stats](https://github.com/JameerBabu/my2-pinjari/blob/main/MyStats.md)
 
+---
+### Sports Recommendation
 
+Sports is a must for everyone. It not only helps in diverting from daily chores, but also builds health. This section introduces to the sports I highly recommend to others for their overall development.
+
+| Name of the sport | Reason for Recommendation | Average hours per week|
+| ----------------- | ------------------------- | ----------------------|
+| Chess             | Boosts **Intelligence**       | 5                     |
+| Kabaddi           | Improves Physical metabollism | 5                 |
+| Table Tennis      | Improves Physical metabollism | 5                 |
+| Volley Ball       | Helps Body Building       | 5 |
+| Foot Ball         | Helps Body Building       | 5 |
 
 
 
