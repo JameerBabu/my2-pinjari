@@ -51,6 +51,19 @@ Sports is a must for everyone. It not only helps in diverting from daily chores,
 *Yann LeCunn* :
 > Our intelligence is what makes us human, and AI is an extension of that quality.
 
+---
+### Code Fencing
+
+> How to open link in a new tab in HTML?
+
+[Question in Stack Overflow](https://stackoverflow.com/questions/17711146/how-to-open-link-in-a-new-tab-in-html)
+
+**Ans** :
+
+```<a href="http://chriscoyier.net" target="_blank">This link will open in new window/tab</a>``` 
+
+[Code snippet in CSS-Tricks](https://css-tricks.com/snippets/html/open-link-in-a-new-window/)
+
 
 
 
