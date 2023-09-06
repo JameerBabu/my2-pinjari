@@ -60,7 +60,10 @@ Sports is a must for everyone. It not only helps in diverting from daily chores,
 
 **Ans** :
 
-```<a href="http://chriscoyier.net" target="_blank">This link will open in new window/tab</a>``` 
+```
+<a href="http://chriscoyier.net" target="_blank">This link will open in new window/tab</a>
+
+``` 
 
 [Code snippet in CSS-Tricks](https://css-tricks.com/snippets/html/open-link-in-a-new-window/)
 
